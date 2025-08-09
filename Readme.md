@@ -1,4 +1,4 @@
-![Utsav Jaiswal](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Utsav%20Jaiswal%20&fontAlign=53&fontAlignY=51&animation=twinkling&desc=Full%20Stack%20App%20Developer&descAlign=79&descAlignY=64&fontColor=ffffff)
+![HARIS RAVEEN](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20HARIS%20RAVEEN&fontAlign=53&fontAlignY=51&animation=twinkling&fontColor=ffffff)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=21&pause=0&color=F7C2F5&background=8BFFEC00&center=true&vCenter=true&width=435&lines=I'm+a+passionate+Developer;Tech+Enthusiast;I+make+edits;)](https://git.io/typing-svg)
 # 💫 About Me:
 Hey there! I’m a passionate Developer and Tech Enthusiast with a knack for building impactful, user-focused projects. Currently a college student, I love exploring the intersection of technology and creativity — from AI-based systems to full-stack applications. Alongside coding, I’m skilled in editing with After Effects and Premiere Pro, creating engaging visual content that connects with people.<br><br>
