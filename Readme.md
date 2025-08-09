@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+make+edits;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+make+edits;Tech+Enthusiast)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Hey there! I’m a passionate Developer and Tech Enthusiast with a knack for building impactful, user-focused projects. Currently a college student, I love exploring the intersection of technology and creativity — from AI-based systems to full-stack applications. Alongside coding, I’m skilled in editing with After Effects and Premiere Pro, creating engaging visual content that connects with people.<br><br>
